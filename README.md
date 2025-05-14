@@ -1,6 +1,49 @@
-<p align="center">
-  <img src="https://github.com/Dan1Alves/Dan1Alves/raw/main/Design%20sem%20nome.gif" alt="GIF animado Dan Alves" width="100%"/>
-</p>
+<svg viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .letter {
+      font-family: 'Segoe Script', cursive;
+      font-size: 60px;
+      fill: none;
+      stroke: #0077ff;
+      stroke-width: 1.8;
+      stroke-dasharray: 300;
+      stroke-dashoffset: 300;
+      animation: draw 0.5s ease forwards;
+    }
+
+    .l1 { animation-delay: 0s; }
+    .l2 { animation-delay: 0.2s; }
+    .l3 { animation-delay: 0.4s; }
+    .l4 { animation-delay: 0.6s; }
+    .l5 { animation-delay: 0.8s; }
+    .l6 { animation-delay: 1.0s; }
+    .l7 { animation-delay: 1.2s; }
+    .l8 { animation-delay: 1.4s; }
+    .l9 { animation-delay: 1.6s; }
+    .l10 { animation-delay: 1.8s; }
+    .l11 { animation-delay: 2.0s; }
+
+    @keyframes draw {
+      to {
+        stroke-dashoffset: 0;
+      }
+    }
+  </style>
+
+  <text x="20" y="80" class="letter l1">D</text>
+  <text x="60" y="80" class="letter l2">a</text>
+  <text x="100" y="80" class="letter l3">n</text>
+  <text x="140" y="80" class="letter l4">i</text>
+  <text x="160" y="80" class="letter l5">e</text>
+  <text x="200" y="80" class="letter l6">l</text>
+  <text x="250" y="80" class="letter l7"> </text>
+  <text x="270" y="80" class="letter l8">A</text>
+  <text x="320" y="80" class="letter l9">l</text>
+  <text x="340" y="80" class="letter l10">v</text>
+  <text x="380" y="80" class="letter l11">e</text>
+  <text x="420" y="80" class="letter l11">s</text>
+</svg>
+
 <p align="center">
   <img src="https://github.com/Dan1Alves/Dan1Alves/raw/main/Daniel%20Alves%20(1).gif" width="150" height="50" alt="dan alves gif animado"/>
 
