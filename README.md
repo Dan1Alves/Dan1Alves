@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Dan1Alves/Dan1Alves/raw/main/daniel-alves.svg" alt="Animação de escrita Daniel Alves" />
+  <img src="https://raw.githubusercontent.com/Dan1Alves/Dan1Alves/main/daniel-alve.svg" alt="Animação de escrita Daniel Alves" />
 </p>
+
 
 
 
