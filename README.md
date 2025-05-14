@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/Dan1Alves/Dan1Alves/raw/main/Daniel%20Alves%20(1).gif" width="100%" alt="background animado"/>
+  <img src="https://github.com/Dan1Alves/Dan1Alves/raw/main/Design%20sem%20nome.gif" alt="GIF animado Dan Alves" width="100%"/>
 </p>
-
 <p align="center">
   <img src="https://github.com/Dan1Alves/Dan1Alves/raw/main/Daniel%20Alves%20(1).gif" width="150" height="50" alt="dan alves gif animado"/>
 
