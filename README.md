@@ -4,7 +4,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/Dan1Alves/Dan1Alves/raw/main/Daniel%20Alves%20(1).gif" width="150" height="50" alt="dan alves gif animado"/>
 
 </p>
