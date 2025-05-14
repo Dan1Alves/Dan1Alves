@@ -1,4 +1,9 @@
 <h1 align="center">Olá! 👋 Eu sou o Dan Alves</h1>
+
+<p align="center">
+  <img src="https://github.com/Dan1Alves/Dan1Alves/raw/main/Daniel%20Alves.gif" width="100%" alt="background animado"/>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/animated-background.gif" width="100%" alt="background animado"/>
 </p>
