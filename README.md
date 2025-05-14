@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/animated-background.gif" width="100%" alt="background animado"/>
+  <img src="https://github.com/Dan1Alves/Dan1Alves/raw/main/Daniel%20Alves%20(1).gif" width="150" height="50" alt="dan alves gif animado"/>
+
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge"/>
