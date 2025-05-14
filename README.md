@@ -1,7 +1,39 @@
-<h1 align="center">Olá! 👋 Eu sou o Dan Alves</h1>
+<h1 align="center">
+  <span id="typing-effect">Olá! 👋 Eu sou o</span> 
+  <span class="typed-text">Dan Alves</span>
+</h1>
+
+<style>
+  .typed-text {
+    display: inline-block;
+    border-right: 2px solid #00aaff;
+    font-size: 2em;
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: typing 2s steps(10) 1s 1 normal both, blink 0.75s step-end infinite;
+  }
+
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 8em;
+    }
+  }
+
+  @keyframes blink {
+    50% {
+      border-color: transparent;
+    }
+  }
+</style>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/animated-background.gif" width="100%" alt="background animado"/>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/Code-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>
@@ -21,11 +53,53 @@
 ## 💻 Tecnologias que utilizo
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"/>
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=CC6699" alt="Sass"/>
-  <img src="https://img.shields.io/badge/Gulp.js-000000?style=for-the-badge&logo=gulp&logoColor=CF4647" alt="Gulp"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+  <!-- SVG Animado de JavaScript -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+    <circle cx="50" cy="50" r="40" fill="#F7DF1E">
+      <animate attributeName="r" values="40;50;40" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <text x="50%" y="50%" text-anchor="middle" fill="white" font-size="20" dy=".3em">JS</text>
+  </svg>
+
+  <!-- SVG Animado de PHP -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+    <circle cx="50" cy="50" r="40" fill="#777BB4">
+      <animate attributeName="r" values="40;50;40" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <text x="50%" y="50%" text-anchor="middle" fill="white" font-size="20" dy=".3em">PHP</text>
+  </svg>
+
+  <!-- SVG Animado de Git -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+    <circle cx="50" cy="50" r="40" fill="#F05032">
+      <animate attributeName="r" values="40;50;40" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <text x="50%" y="50%" text-anchor="middle" fill="white" font-size="20" dy=".3em">Git</text>
+  </svg>
+
+  <!-- SVG Animado de Sass -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+    <circle cx="50" cy="50" r="40" fill="#CC6699">
+      <animate attributeName="r" values="40;50;40" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <text x="50%" y="50%" text-anchor="middle" fill="white" font-size="20" dy=".3em">Sass</text>
+  </svg>
+
+  <!-- SVG Animado de Gulp -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+    <circle cx="50" cy="50" r="40" fill="#CF4647">
+      <animate attributeName="r" values="40;50;40" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <text x="50%" y="50%" text-anchor="middle" fill="white" font-size="20" dy=".3em">Gulp</text>
+  </svg>
+
+  <!-- SVG Animado de Git -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+    <circle cx="50" cy="50" r="40" fill="#F05032">
+      <animate attributeName="r" values="40;50;40" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <text x="50%" y="50%" text-anchor="middle" fill="white" font-size="20" dy=".3em">Git</text>
+  </svg>
 </p>
 
 ---
