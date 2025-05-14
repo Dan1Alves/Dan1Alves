@@ -1,5 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou o Dan Alves</h1>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/animated-background.gif" width="100%" alt="background animado"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/Code-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>
@@ -49,7 +51,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-alves-a89966251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" target="_blank"/>
   </a>
   <a href="mailto:danielsalves099@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
